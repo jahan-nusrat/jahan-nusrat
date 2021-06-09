@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Tixio web app](https://tixio.io)
 
-- 🌱 I’m currently learning **Python from [python.org](python.org)**
+- 🌱 I’m currently learning **Python from [python.org](https://www.python.org/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jahan-nusrat](https://github.com/jahan-nusrat)
 
