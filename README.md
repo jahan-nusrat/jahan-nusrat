@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahan-nusrat&label=Profile%20views&color=0e75b6&style=flat" alt="jahan-nusrat" /> </p>
 
-- 🔭 I’m currently working on [Tixio web app](https://tixio.io)
+- 🔭 I’m currently working on improving React advanced concepts and making projects using Next JS
 
 - 🌱 I’m currently learning **SQL from [udemy.com](https://www.udemy.com/course/the-complete-sql-bootcamp/)**
 
