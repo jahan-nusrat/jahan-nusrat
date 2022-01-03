@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Tixio web app](https://tixio.io)
 
-- 🌱 I’m currently learning **Python from [python.org](https://www.python.org/)**
+- 🌱 I’m currently learning **SQL from [udemy.com](https://www.udemy.com/course/the-complete-sql-bootcamp/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jahan-nusrat](https://github.com/jahan-nusrat)
 
-- 💬 Ask me about **JavaScript, TypeScript, React**
+- 💬 Ask me about **JavaScript, TypeScript, React JS, Redux, Next JS**
 
 - 📫 How to reach me **njnusrat53@gmail.com**
 
