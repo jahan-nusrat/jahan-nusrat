@@ -9,7 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jahan-nusrat](https://github.com/jahan-nusrat)
 
-- 💬 Ask me about **JavaScript, TypeScript, React JS, Redux, Next JS**
+- 💬 Ask me about **JavaScript, TypeScript, React JS, Angular, Redux, Next JS**
+- For Testing: Playwright
 
 - 📫 How to reach me **njnusrat53@gmail.com**
 
